@@ -62,6 +62,7 @@ public class Main {
 		frmAtividades.getContentPane().add(btnNewButton);
 		
 		JButton btnNewButton_1 = new JButton("Calculadora");
+		springLayout.putConstraint(SpringLayout.WEST, btnNewButton, 6, SpringLayout.EAST, btnNewButton_1);
 		springLayout.putConstraint(SpringLayout.EAST, btnNewButton_1, 118, SpringLayout.WEST, frmAtividades.getContentPane());
 		springLayout.putConstraint(SpringLayout.WEST, btnNewButton_1, 10, SpringLayout.WEST, frmAtividades.getContentPane());
 		btnNewButton_1.addActionListener(new ActionListener() {
@@ -84,7 +85,7 @@ public class Main {
 		frmAtividades.getContentPane().add(lblNewLabel);
 		
 		JButton btnNewButton_1_1 = new JButton("Conversor");
-		springLayout.putConstraint(SpringLayout.EAST, btnNewButton, -13, SpringLayout.WEST, btnNewButton_1_1);
+		springLayout.putConstraint(SpringLayout.EAST, btnNewButton, -6, SpringLayout.WEST, btnNewButton_1_1);
 		springLayout.putConstraint(SpringLayout.NORTH, btnNewButton_1_1, 16, SpringLayout.SOUTH, lblNewLabel);
 		springLayout.putConstraint(SpringLayout.WEST, btnNewButton_1_1, 231, SpringLayout.WEST, frmAtividades.getContentPane());
 		springLayout.putConstraint(SpringLayout.EAST, btnNewButton_1_1, -10, SpringLayout.EAST, frmAtividades.getContentPane());
@@ -107,6 +108,19 @@ public class Main {
 		springLayout.putConstraint(SpringLayout.WEST, btnNewButton_2, 10, SpringLayout.WEST, frmAtividades.getContentPane());
 		springLayout.putConstraint(SpringLayout.EAST, btnNewButton_2, 0, SpringLayout.EAST, btnNewButton_1);
 		frmAtividades.getContentPane().add(btnNewButton_2);
+		
+		JButton btnNewButton_3 = new JButton("Jogo");
+		springLayout.putConstraint(SpringLayout.NORTH, btnNewButton_3, 0, SpringLayout.NORTH, btnNewButton_2);
+		springLayout.putConstraint(SpringLayout.WEST, btnNewButton_3, 0, SpringLayout.WEST, btnNewButton);
+		springLayout.putConstraint(SpringLayout.SOUTH, btnNewButton_3, 0, SpringLayout.SOUTH, btnNewButton_2);
+		springLayout.putConstraint(SpringLayout.EAST, btnNewButton_3, 0, SpringLayout.EAST, btnNewButton);
+		frmAtividades.getContentPane().add(btnNewButton_3);
+		btnNewButton_3.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				JogoAdv jogo = new JogoAdv();
+				jogo.setVisible(true);
+			}
+		});
 	}
 }
 
