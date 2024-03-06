@@ -3,7 +3,13 @@
 Este repositório contém as atividades da disciplina de Programação orientada a objetos 2, ministrada pelo Professor Eliel Mota no curso de BSI da UNIME.
 
 ## Introdução
-Neste repositório, você encontrará soluções em java para diversos exercícios em Java Swing. A disciplina aborda tópicos como desenvolvimento desktop, POO e muito mais.
+Neste repositório, você encontrará soluções em Java (Swing) para diversos exercícios.
+
+A disciplina aborda tópicos como:
+- Componentes para agrupamento, de texto, seleção e botões
+- Definição de frames e dimensões
+- Definição de posicionamento
+- e muito mais.
 
 Compilei as 5 atividades em uma aplicação, a tela inicial possui botões que direcionam para cada atividade.
 
