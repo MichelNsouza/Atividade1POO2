@@ -8,7 +8,6 @@ Neste repositório, você encontrará soluções em java para diversos exercíci
 Compilei as 5 atividades em uma aplicação, a tela inicial possui botões que direcionam para cada atividade.
 
 ## [Atividades](https://github.com/MichelNsouza/Atividade1POO2/blob/main/Exercicios_POO2_001.pdf)
-- [Tela inicial](https://github.com/MichelNsouza/Atividade1POO2/blob/main/src/com/poo2atv1/swing/Main.java)
 - [Cálculo da poupança](https://github.com/MichelNsouza/Atividade1POO2/blob/main/src/com/poo2atv1/swing/Poupanca.java)
 - [Calculadora](https://github.com/MichelNsouza/Atividade1POO2/blob/main/src/com/poo2atv1/swing/Calculadora.java)
 - [Conversão monetária](https://github.com/MichelNsouza/Atividade1POO2/blob/main/src/com/poo2atv1/swing/Moeda.java)
