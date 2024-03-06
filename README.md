@@ -4,6 +4,7 @@ Este repositório contém as atividades da disciplina de Programação orientada
 
 ## Introdução
 Neste repositório, você encontrará soluções em java para diversos exercícios em Java Swing. A disciplina aborda tópicos como desenvolvimento desktop, POO e muito mais.
+
 Compilei as 5 atividades em uma aplicação, a tela inicial possui botões que direcionam para cada atividade.
 
 ## [Atividades](https://github.com/MichelNsouza/Atividade1POO2/blob/main/Exercicios_POO2_001.pdf)
