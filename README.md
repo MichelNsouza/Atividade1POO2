@@ -14,11 +14,12 @@ A disciplina aborda tópicos como:
 
 
 ## [Atividades](https://github.com/MichelNsouza/Atividade1POO2/blob/main/Exercicios_POO2_001.pdf)
-- [Cálculo da poupança](https://github.com/MichelNsouza/Atividade1POO2/blob/main/src/com/poo2atv1/swing/Poupanca.java)
-- [Calculadora](https://github.com/MichelNsouza/Atividade1POO2/blob/main/src/com/poo2atv1/swing/Calculadora.java)
-- [Conversão monetária](https://github.com/MichelNsouza/Atividade1POO2/blob/main/src/com/poo2atv1/swing/Moeda.java)
-- [M/M/M, O maior, o menor e a Média.](https://github.com/MichelNsouza/Atividade1POO2/blob/main/src/com/poo2atv1/swing/Media.java)
-- [Adivinhe o número](https://github.com/MichelNsouza/Atividade1POO2/blob/main/src/com/poo2atv1/swing/JogoAdv.java)
+- [Cálculo da poupança](https://github.com/MichelNsouza/POO_2_UNIME/blob/main/Atividade1/src/com/poo2atv1/swing/Poupanca.java)
+- [Calculadora](https://github.com/MichelNsouza/POO_2_UNIME/blob/main/Atividade1/src/com/poo2atv1/swing/Calculadora.java)
+- [Conversão monetária](https://github.com/MichelNsouza/POO_2_UNIME/blob/main/Atividade1/src/com/poo2atv1/swing/Moeda.java)
+- [M/M/M, O maior, o menor e a Média.](https://github.com/MichelNsouza/POO_2_UNIME/blob/main/Atividade1/src/com/poo2atv1/swing/Media.java)
+- [Adivinhe o número](https://github.com/MichelNsouza/POO_2_UNIME/blob/main/Atividade1/src/com/poo2atv1/swing/JogoAdv.java)
+- [Avaliação Parcial 1 - Gerenciador de Produtos](https://github.com/MichelNsouza/POO_2_UNIME/tree/main/parcial1poo2/src/parcial1poo2)
 
 
 ## Contribuidores
