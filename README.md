@@ -6,6 +6,8 @@ Este repositório contém as atividades da disciplina de Programação orientada
 Neste repositório, você encontrará soluções em Java (Swing) para diversos exercícios.
 
 A disciplina aborda tópicos como:
+- Conceitos de POO
+- Pilares de POO
 - Componentes para agrupamento, de texto, seleção e botões
 - Definição de frames e dimensões
 - Definição de posicionamento
@@ -20,8 +22,8 @@ A disciplina aborda tópicos como:
 - [M/M/M, O maior, o menor e a Média.](https://github.com/MichelNsouza/POO_2_UNIME/blob/main/Atividade1/src/com/poo2atv1/swing/Media.java)
 - [Adivinhe o número](https://github.com/MichelNsouza/POO_2_UNIME/blob/main/Atividade1/src/com/poo2atv1/swing/JogoAdv.java)
 - [Avaliação Parcial 1 - Gerenciador de Produtos](https://github.com/MichelNsouza/POO_2_UNIME/tree/main/parcial1poo2/src/parcial1poo2)
+- [Avaliação Oficial 1 e 2 - Gerenciador de Estpque](https://github.com/MichelNsouza/gerenciadorDeEstoque)
 
 
 ## Contribuidores
 - Professor Eliel Mota
-- Alunos do curso de BSI da UNIME
